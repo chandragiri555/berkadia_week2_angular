@@ -1,0 +1,15 @@
+div.gallery{
+    border: 5px solid rgb(17, 16, 16);
+    float: right;
+    
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    
+}
+p{
+    text-align: center;
+}
